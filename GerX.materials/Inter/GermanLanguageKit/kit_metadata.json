@@ -1,0 +1,17 @@
+{
+    "is": {
+        "type": "kit",
+        "title": "GermanLanguageKit",
+        "version": "10.1.2"
+    },
+    "needs": [ {
+        "need": {
+            "type": "extension",
+            "title": "German Language",
+            "author": "Team GerX"
+        }
+    } ],
+    "kit-details": {
+        "has-priority": 1
+    }
+}
